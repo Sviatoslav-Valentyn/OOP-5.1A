@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Asus\Desktop\ООП 5.1А\OOP 5.1A\Bill.h(16,6): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1А\OOP 5.1A\Bill.h(22,45): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1А\OOP 5.1A\Bill.h(23,44): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1А\OOP 5.1A\Bill.h(27,71): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1А\OOP 5.1A\Bill.h(33,48): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1А\OOP 5.1A\Bill.h(34,50): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  OOP 5.1A.vcxproj -> C:\Users\Asus\Desktop\ООП 5.1А\OOP 5.1A\Debug\OOP 5.1A.exe
